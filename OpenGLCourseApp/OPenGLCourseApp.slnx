@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OPenGLCourseApp/OPenGLCourseApp.vcxproj" Id="294a91bf-45ca-4bac-92f9-759086e05136" />
+</Solution>
